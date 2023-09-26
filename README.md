@@ -1,4 +1,17 @@
-### Hi there 👋
+### Software Engineer | iOS Engineer
+
+Swift, SwiftUI, clean code, Test Driven Development, Design Patterns, Software principles.
+
+Familiarised with MVVM and The Composable Architecture (TCA).
+
+Building and deploying Startup and Enterprise apps to the App Store.
+Born in Japan, living in the Canada, originally from the Japan.
+
+6+ years of commercial experience building iOS applications in Swift.
+Full Stack Web Developer. MERN, Next.js, TypeScript, Strapi.
+Experience with React Native and bridging applications from Swift to React Native.
+
+<hr/>
 
 - Paradigms: Object-oriented and Functional/Reactive programming.
 - Worked on production apps extensively with:
